@@ -1,4 +1,6 @@
-CREDIT SCORE PREDICTION ML MODELS
+## CREDIT SCORE PREDICTION ML MODELS
+
+
 Let's create a machine learning prediction model to predict customer credit score
 Project Overview
 
