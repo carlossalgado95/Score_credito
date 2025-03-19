@@ -6,7 +6,7 @@ Project Overview
 
 In this project, we aim to predict the credit score of customers using machine learning models. The workflow involves various stages of data preprocessing, model building, testing, and evaluation. This includes handling missing data, dealing with outliers, and performing feature engineering, data standardization, and machine learning model evaluation.
 #### Key Steps Involved
-
+<ul>
     - <strong>Exploratory Data Analysis (EDA) and Graphs</strong>: Visualizing the data to understand distributions, relationships, and potential issues such as missing data and outliers.
     - <strong>Missing Data Handling</strong>: Identifying and managing missing values in the dataset.
     - <strong>Outlier Handling</strong>: Detecting and addressing outliers that may distort model training.
@@ -15,7 +15,7 @@ In this project, we aim to predict the credit score of customers using machine l
     - <strong>Data Handling</strong>: Cleaning and organizing data to ensure it's ready for machine learning models.
     - <strong>Data Standardization</strong>: Scaling the data to bring all features into a common range, especially important for algorithms like Linear Regression.
     - <strong>Machine Learning Model Building, Testing, and Validation</strong>: Implementing and validating multiple models, including Linear Regression, Random Forest, and XGBoost.
-
+</ul>
 #### Libraries and Dependencies
 
 This project utilizes the following libraries:
