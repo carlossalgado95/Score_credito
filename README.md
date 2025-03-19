@@ -7,14 +7,14 @@ Project Overview
 In this project, we aim to predict the credit score of customers using machine learning models. The workflow involves various stages of data preprocessing, model building, testing, and evaluation. This includes handling missing data, dealing with outliers, and performing feature engineering, data standardization, and machine learning model evaluation.
 Key Steps Involved
 
-    Exploratory Data Analysis (EDA) and Graphs: Visualizing the data to understand distributions, relationships, and potential issues such as missing data and outliers.
-    Missing Data Handling: Identifying and managing missing values in the dataset.
-    Outlier Handling: Detecting and addressing outliers that may distort model training.
-    OneHotEncoding: Converting categorical variables into numerical format for model compatibility.
-    Attribute Engineering: Creating new features to improve model performance.
-    Data Handling: Cleaning and organizing data to ensure it's ready for machine learning models.
-    Data Standardization: Scaling the data to bring all features into a common range, especially important for algorithms like Linear Regression.
-    Machine Learning Model Building, Testing, and Validation: Implementing and validating multiple models, including Linear Regression, Random Forest, and XGBoost.
+    - Exploratory Data Analysis (EDA) and Graphs: Visualizing the data to understand distributions, relationships, and potential issues such as missing data and outliers.
+    - Missing Data Handling: Identifying and managing missing values in the dataset.
+    - Outlier Handling: Detecting and addressing outliers that may distort model training.
+    - OneHotEncoding: Converting categorical variables into numerical format for model compatibility.
+    - Attribute Engineering: Creating new features to improve model performance.
+    - Data Handling: Cleaning and organizing data to ensure it's ready for machine learning models.
+    - Data Standardization: Scaling the data to bring all features into a common range, especially important for algorithms like Linear Regression.
+    - Machine Learning Model Building, Testing, and Validation: Implementing and validating multiple models, including Linear Regression, Random Forest, and XGBoost.
 
 Libraries and Dependencies
 
