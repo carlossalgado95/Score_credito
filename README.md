@@ -16,15 +16,16 @@ In this project, we aim to predict the credit score of customers using machine l
     <li><strong>Data Standardization</strong>: Scaling the data to bring all features into a common range, especially important for algorithms like Linear Regression.</li>
     <li><strong>Machine Learning Model Building, Testing, and Validation</strong>: Implementing and validating multiple models, including Linear Regression, Random Forest, and XGBoost.</li>
 </ul>
+
 #### Libraries and Dependencies
 
 This project utilizes the following libraries:
 
-    -<strong>Pandas</strong>: Data manipulation and analysis.
-    -<strong>Matplotlib & Seaborn</strong>: Data visualization.
-    -<strong>NumPy</strong>: Numerical computing.
-    -<strong>Scikit-learn</strong>: Machine learning model building and evaluation.
-    -<strong>XGBoost</strong>: Gradient boosting model.
+    <li><strong>Pandas</strong>: Data manipulation and analysis.</li>
+    <li><strong>Matplotlib & Seaborn</strong>: Data visualization.</li>
+    <li><strong>NumPy</strong>: Numerical computing.</li>
+    <li><strong>Scikit-learn</strong>: Machine learning model building and evaluation.</li>
+    <li><strong>XGBoost</strong>: Gradient boosting model.</li>
 
 import pandas as pd
 import matplotlib.pyplot as plt
