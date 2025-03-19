@@ -43,3 +43,8 @@ from sklearn.metrics import r2_score
 from sklearn.ensemble import RandomForestRegressor
 from xgboost import XGBRegressor
 from sklearn.pipeline import Pipeline
+
+Model Performance
+<p style="font-size: 20px; font-weight: bold;"> Here are the performance results of the models used: </p> <ul> <li><strong>Linear Regression</strong>: <ul> <li>R2 Score (Training): <strong>0.7957</strong></li> <li>R2 Score (Test): <strong>0.7941</strong></li> <li>R2 Score (Cross-validation): <strong>0.7938 ± 0.0197</strong></li> </ul> </li> <li><strong>Random Forest</strong>: <ul> <li>R2 Score (Training): <strong>1.0000</strong></li> <li>R2 Score (Test): <strong>1.0000</strong></li> <li>R2 Score (Cross-validation): <strong>1.0000 ± 0.0000</strong></li> </ul> </li> <li><strong>XGBoost</strong>: <ul> <li>R2 Score (Training): <strong>1.0000</strong></li> <li>R2 Score (Test): <strong>1.0000</strong></li> <li>R2 Score (Cross-validation): <strong>1.0000 ± 0.0000</strong></li> </ul> </li> </ul>
+Conclusion
+<p style="font-size: 18px;"> The Random Forest and XGBoost models performed exceptionally well with perfect R2 scores on both training and testing datasets. These models also showed great consistency during cross-validation. Linear Regression showed good performance as well, with slightly lower but reasonable R2 scores. </p>
