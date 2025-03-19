@@ -20,12 +20,13 @@ In this project, we aim to predict the credit score of customers using machine l
 #### Libraries and Dependencies
 
 This project utilizes the following libraries:
-
+<ul>
     <li><strong>Pandas</strong>: Data manipulation and analysis.</li>
     <li><strong>Matplotlib & Seaborn</strong>: Data visualization.</li>
     <li><strong>NumPy</strong>: Numerical computing.</li>
     <li><strong>Scikit-learn</strong>: Machine learning model building and evaluation.</li>
     <li><strong>XGBoost</strong>: Gradient boosting model.</li>
+</ul>
 
 import pandas as pd
 import matplotlib.pyplot as plt
